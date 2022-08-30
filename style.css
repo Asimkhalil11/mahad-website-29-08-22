@@ -12,6 +12,7 @@
   outline: none;
   margin: 0; padding: 0;
   box-sizing: border-box;
+  
 }
 
 *::selection{
@@ -145,6 +146,7 @@ header .fa-bars{
   font-size: 2.5rem;
   color:#eee;
   padding:1rem 25rem;
+  text-align: justify;
 }
 
 .home .box-container{
@@ -188,6 +190,7 @@ header .fa-bars{
   font-size: 1.5rem;
   padding:.7rem 2rem;
   color:#555;
+  text-align: justify;
 }
 
 .home .box-container .box button{
@@ -264,6 +267,7 @@ margin-top: 10px;
   padding:.7rem 2rem;
   color:#555;
   margin-top: 2rem;
+  text-align: justify;
 }
 
 .about .row .content h3{
@@ -326,6 +330,7 @@ margin-top: 10px;
 .department .card-container .card p{
   font-size: 1.7rem;
   color:#555;
+  text-align: justify;
 }
 
 
