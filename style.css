@@ -635,7 +635,7 @@ header .fa-times{
   }
 
   .department .card-container .card{
-    width::100vw;
+    width:100vw;
     height:50vh;
    text-align: center;
   }
