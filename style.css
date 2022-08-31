@@ -597,6 +597,7 @@ header .fa-times{
   .home .content p{
     padding:1.5rem 1.5rem;
    text-align: justify;
+     direction: rtl;
   }
 
   .home::before{
@@ -604,9 +605,12 @@ header .fa-times{
   }
  
  .home .box-container .box{
-  height:45rem;
+  height:43rem;
   width:35rem;
-  text-align: justify;
+ }
+ 
+ .home .box-container .box p{
+    text-align: justify;
  }
  
   .about .row{
@@ -623,8 +627,8 @@ header .fa-times{
   }
 
   .department .card-container .card{
-    width::90vw;
-    height:100vh
+    width::100vw;
+    height:100vh;
    text-align: justify;
   }
 
@@ -663,7 +667,7 @@ header .fa-times{
   }
 
   .contact .row .image img{
-    height:42vh;
+    height:40vh;
     width:90vw;
   }
 
