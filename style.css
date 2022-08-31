@@ -3,6 +3,13 @@
   font-family:'Jameel Noori Nastaleeq' ;
   src: url('Jameel Noori Nastaleeq.ttf');
 }
+
+@font-face {
+  font-family:'Jameel Noori Nastaleeq Kasheeda' ;
+  src: url('Jameel Noori Nastaleeq Kasheeda.ttf');
+}  
+
+
 :root{
  color: #155768;
   color: #555;
@@ -94,7 +101,7 @@ header .navbar ul li a{
 
 header .navbar ul li .active,
 header .navbar ul li a:hover{
-  color:blue;
+  color:#FFC300 ;
 }
 
 header .logo{
