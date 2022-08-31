@@ -614,6 +614,7 @@ header .fa-times{
  
  .home .box-container .box p{
     text-align: justify;
+   
  }
  
   .about .row{
@@ -630,13 +631,10 @@ header .fa-times{
       width:90vw;
     text-align: justify;
   }
-  .about .row .content{
-    padding:0 2.5rem;
-  }
-
+ 
   .department .card-container .card{
-    width:100vw;
-    height:50vh;
+    width:90vw;
+    height:45vh;
    text-align: center;
   }
 
