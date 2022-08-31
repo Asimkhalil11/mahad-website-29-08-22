@@ -608,7 +608,7 @@ header .fa-times{
   }
  
  .home .box-container .box{
-  height:43rem;
+  height:40rem;
   width:35rem;
  }
  
@@ -621,20 +621,28 @@ header .fa-times{
   }
 
   .about .row .content{
-    height:80vh;
+    height:60vh;
     width:90vw;
   }
 
+  .about .row .content p{
+      height:80vh;
+      width:90vw;
+    text-align: justify;
+  }
   .about .row .content{
     padding:0 2.5rem;
   }
 
   .department .card-container .card{
     width::100vw;
-    height:100vh;
-   text-align: justify;
+    height:50vh;
+   text-align: center;
   }
 
+    .department .card-container .card p{
+   text-align: justify;
+  }
  
 
   .broadcast .box-container{
@@ -650,13 +658,13 @@ header .fa-times{
   }
   
   .broadcast .box-container .box{
-    height:38rem;
+    height:37rem;
     width:28rem;
     margin:3.5rem 2rem;
   }
   .broadcast .box-container .box img{
     width: 24rem ;
-    height: 30rem;
+    height: 29rem;
    }
 
    .broadcast .box-container .box h3{
